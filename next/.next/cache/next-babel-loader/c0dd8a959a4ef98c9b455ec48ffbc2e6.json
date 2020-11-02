@@ -1,0 +1,1 @@
+{"ast":null,"code":"\"use strict\";\n\nimport Channel from \"../channel\";\nexport default Channel;","map":{"version":3,"sources":["/drupal/app/next/pages/messages/general.js"],"names":["Channel"],"mappings":";;AAAA,OAAOA,OAAP;AACA,eAAeA,OAAf","sourcesContent":["import Channel from '../channel'\nexport default Channel\n"]},"metadata":{},"sourceType":"module"}
